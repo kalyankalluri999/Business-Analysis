@@ -14,9 +14,9 @@ The 2000s marked a pivotal moment for business analysis, with the formalization 
 # Business Analysis as a Set of Competencies:
 Beyond being a defined profession, business analysis is a set of competencies that empower individuals to perform tasks effectively. Facilitation, problem-solving, negotiation, and industry and organizational knowledge are core competencies that enhance the performance of business analysis tasks. These competencies, crucial for success within the profession, are also valuable in various other roles outside the realm of business analysis.
 
-# Facilitation, as exemplified by a skilled business analyst named Crystal, enables effective communication and collaboration during requirement workshops. 
-# Problem-solving, demonstrated by David, ensures that solutions address the root cause of business problems. 
-# Negotiation skills, illustrated through Lexi's ability to guide stakeholders to mutually agreeable decisions, contribute to successful outcomes. Lastly, industry and organizational knowledge, as highlighted, enable business analysts to navigate the complexities of organizational culture and collaborate more effectively with stakeholders.
+Facilitation, as exemplified by a skilled business analyst named Crystal, enables effective communication and collaboration during requirement workshops. 
+Problem-solving, demonstrated by David, ensures that solutions address the root cause of business problems. 
+Negotiation skills, illustrated through Lexi's ability to guide stakeholders to mutually agreeable decisions, contribute to successful outcomes. Lastly, industry and organizational knowledge, as highlighted, enable business analysts to navigate the complexities of organizational culture and collaborate more effectively with stakeholders.
 
 # Business Analysis as a Research Discipline:
 Beyond its traditional role, business analysis extends into the realm of research, providing a structured approach to decision-making. It offers a framework to guide analysis efforts, ensuring that informed decisions are made when pursuing organizational changes. Through a case study involving Sasha, a senior business analyst, we see how business analysis is applied to research and analyze information, leading to well-informed and targeted solutions.
